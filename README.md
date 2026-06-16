@@ -8,7 +8,7 @@ What makes this implementation distinct: **no STL is used**. All foundational da
 
 ## How It Works
 - (A video is provided in same repo that shows the working)
-<video src="Project-Video.mp4" width="100%" autoplay loop muted controls></video>
+![Project Demo](Project-Video.gif)
 ### Compression
 
 1. **Frequency Counting** — The input `.txt` file is read character by character, building a linked list of unique characters and their occurrence counts
