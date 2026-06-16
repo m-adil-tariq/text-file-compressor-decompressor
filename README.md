@@ -8,7 +8,8 @@ What makes this implementation distinct: **no STL is used**. All foundational da
 
 ## How It Works
 - (A video is provided in same repo that shows the working)
-<video src="Project-Video.mp4" width="100%" autoplay loop muted controls></video>
+<img width="540" height="302" alt="ds-project-1054_bNlNl3Pp" src="https://github.com/user-attachments/assets/24d7a50b-2aa3-40c5-adf1-3a4b050f160b" />
+
 ### Compression
 
 1. **Frequency Counting** — The input `.txt` file is read character by character, building a linked list of unique characters and their occurrence counts
