@@ -7,7 +7,7 @@ What makes this implementation distinct: **no STL is used**. All foundational da
 ---
 
 ## How It Works
-<img width="540" height="302" alt="ds-project-1054_bNlNl3Pp" src="https://github.com/user-attachments/assets/24d7a50b-2aa3-40c5-adf1-3a4b050f160b" />
+<img width="810" height="453" alt="ds-project-1054_bNlNl3Pp" src="https://github.com/user-attachments/assets/24d7a50b-2aa3-40c5-adf1-3a4b050f160b" />
 
 **Please wait a few seconds, the demo GIF is loading...**
 
